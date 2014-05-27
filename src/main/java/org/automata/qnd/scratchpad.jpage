@@ -1,0 +1,4 @@
+boolean x = true;
+System.out.println(x ? "1" : "0");
+x = false;
+System.out.println(x ? "1" : "0");
